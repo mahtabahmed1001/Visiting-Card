@@ -1,0 +1,19 @@
+.aboutMe{
+    justify-content: center;
+    position: relative;
+}
+.aboutMe h1{
+    font-size: 16px;
+    color: white;
+    margin-left: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.aboutMe p{
+    font-size: 12.5px;
+    color: white;
+    margin-left: 8px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    text-align:left;
+
+}

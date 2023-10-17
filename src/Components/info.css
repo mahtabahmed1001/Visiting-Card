@@ -1,0 +1,92 @@
+body{
+    background-color: rgb(176, 145, 145);
+}
+.mainInfo{
+    display: inline;
+    position: relative;
+    background-color:rgb(44, 19, 19) ;
+    color: white;
+}
+
+.imgOne img{
+    width: 220px;
+    height: 200px;
+    border-top-right-radius: 4px;
+    border-top-left-radius: 4px;
+}
+.mainInfo h2{
+    position: relative;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.mainInfo h4{
+    position: relative;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    margin-top: 6px;
+    margin-bottom: 0;
+}
+.mainInfo h6{
+    position: relative;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    margin-top: 4px;
+    margin-bottom: 0;
+}
+.buttons{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 8px;
+}
+.buttons .button1{
+    display: flex;
+    margin-left: 12px;
+    text-align: center;
+    justify-content: center;
+    font-weight: 400;
+    width: 80px;
+    height: 23px;
+    position: relative;
+    cursor: pointer;
+    border: none;
+}
+.emailIcon{
+   position: relative;
+   display: flex;
+   justify-content: space-between;
+   margin-right: 2px;
+  
+}
+.buttons .button2{
+    display: flex;
+    margin-right: 12px;
+    text-align: center;
+    justify-content: center;
+    font-weight: 400;
+    width: 80px;
+    height: 23px;
+    position: relative;
+    cursor: pointer;
+    border: none;
+}
+.emailIcon2{
+   position: relative;
+   display: flex;
+   justify-content: space-between;
+   margin-right: 2px;
+   
+}
+.button1:hover{
+    background-color: rgb(123, 123, 208);
+    box-shadow: 1px 1px 1px 1px rgb(133, 133, 209);
+}
+.button2:hover{
+    background-color:rgb(123, 123, 208) ;
+    box-shadow: 1px 1px 1px 1px rgb(133, 133, 209);
+}

@@ -1,0 +1,22 @@
+.mainDiv{
+  display: inline;
+  width: 380px;
+  height: 600px;
+  position: absolute;
+  /* align-items: center; */
+  margin-left: 300px;
+  margin-top: 60px;
+  border: 4px solid rgb(251, 250, 250);
+  background-color: rgb(58, 49, 49);
+  border-radius: 8px;
+  box-shadow: 10px 10px 10px 12px rgb(106, 121, 126);
+}
+.mainDiv2{
+  position: absolute;
+  width: 220px;
+  margin-top: 30px;
+  margin-left: 80px;
+  border-radius: 3px;
+  background-color: rgb(41, 34, 34);
+
+}
